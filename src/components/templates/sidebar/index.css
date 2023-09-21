@@ -1,0 +1,12 @@
+.accordion {
+    --bs-accordion-bg:  rgba(var(--bs-primary-rgb), var(--bs-bg-opacity));
+    --bs-accordion-border-color: 0.0625rem solid #4c5680;
+}
+
+.accordion-item {
+    border: 1px solid #4c5680;
+}
+
+.sidebar .nav-item.active > .nav-link {
+    border: none;
+}

@@ -1,0 +1,3 @@
+export const GET_ALL_MESSAGE = "GET_ALL_MESSAGE";
+export const READ_MESSAGE = "READ_MESSAGE";
+export const COUNT_MESSAGE = "COUNT_MESSAGE";

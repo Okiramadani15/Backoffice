@@ -1,0 +1,9 @@
+.w-sm-25-md-50 {
+    width: 50%;
+}
+
+@media only screen and (max-width: 576px) {
+    .w-sm-25-md-50 {
+        width: 25%;
+    }
+  }

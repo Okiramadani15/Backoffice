@@ -1,0 +1,9 @@
+export const GET_ALL_ASSET = "GET_ALL_ASSET";
+export const LIST_ASSET = "LIST_ASSET";
+export const CREATE_ASSET = "CREATE_ASSET";
+export const DETAIL_ASSET = "DETAIL_ASSET";
+export const UPDATE_ASSET = "UPDATE_ASSET";
+export const DELETE_ASSET = "UPDATE_ASSET";
+export const ALL_CONDITION_ASSET = "ALL_CONDITION_ASSET";
+export const EXPORT_ASSET = "EXPORT_ASSET";
+export const IMPORT_ASSET = "IMPORT_ASSET";

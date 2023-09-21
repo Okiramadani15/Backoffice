@@ -1,0 +1,16 @@
+@page {
+    width: 6cm;
+    height: 4cm;
+    margin: 0;
+    padding: 0;
+}
+@media print {
+    * {
+        print-color-adjust: exact; 
+    }
+
+    html, body {
+        width: 6cm;
+        height: 4cm;
+    }
+}

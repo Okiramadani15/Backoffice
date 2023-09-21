@@ -1,0 +1,26 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.cursor-pointer:hover {
+    background-color: lightgray;
+    color: black;
+}
+
+.cursor-disable {
+    cursor: crosshair;;
+}
+
+@media print{
+    .hide_on_print {
+        display:none;
+    }
+
+    .text-black-on-print {
+        color: black !important;
+    }
+}
+
+a:hover {
+    color:forestgreen;
+}
